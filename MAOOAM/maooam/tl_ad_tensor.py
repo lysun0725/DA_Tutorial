@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[24]:
-
-
 import numpy as np
 from params_maooam import ndim, tw, t_run, t_trans, dt, f0
 import aotensor as aotensor_mod
