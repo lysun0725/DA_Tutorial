@@ -1,5 +1,5 @@
 import numpy as np
-from params_maooam import ndim, tw, t_run, t_trans, dt, f0
+from params_maooam import ndim
 import aotensor as aotensor_mod
 import integrator
 
